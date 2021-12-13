@@ -4,6 +4,6 @@ By : Christopher Owen / L1BC / 2502019180
 
 JavaScript Practice 1: "Blood Types"
 
-JavaScript Practice 2
+JavaScript Practice 2: "Decoding Message"
 
 JavaScript Practice 3: "Climbing Stairs"
